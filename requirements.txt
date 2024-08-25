@@ -1,0 +1,7 @@
+# Libraries to be installed
+streamlit
+pandas
+textdistance
+
+
+
